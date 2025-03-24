@@ -111,7 +111,7 @@
   <section id="contact">
     <h2>Contact Me</h2>
     <p>If you'd like to get in touch, feel free to email me at:</p>
-    <p><a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p><a href="mailto:your.email@example.com">obautist@purdue.edu</a></p>
   </section>
 
   <footer>
