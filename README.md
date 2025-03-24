@@ -65,7 +65,7 @@
 <body>
 
   <header>
-    <h1>Octavio Bautista</h1>
+    <p>Octavio Bautista</p>
     <p>Cybersecurity Student at Purdue University</p>
     <nav>
       <a href="#about">About</a>
